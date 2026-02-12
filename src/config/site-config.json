@@ -1,0 +1,264 @@
+{
+  "personal": {
+    "name": "Irvin M. Cruz-Rodriguez",
+    "tagline": "AI should automate the meaningless so humans can amplify the meaningful.",
+    "bio": "I build systems that actually make work easier. Most teams waste hours on repetitive tasks—email sorting, data entry, document processing, follow-ups—work that steals time from strategy and growth. I design AI workflows and multi-agent systems that eliminate that friction. The proof: 40% less manual work at FutureCrafters. $2.1M revenue influenced at Michaelis Events. 8x digital sales growth at Disney. I'm a Certified Chief AI Officer working with teams that are done managing chaos and ready to focus on what matters.",
+    "location": "Orlando, FL (Remote)",
+    "email": "irvincruz.work@gmail.com",
+    "photo": "/profile-pic (2).png",
+    "website": "https://www.irvincruz.com"
+  },
+  "businesses": [
+    {
+      "name": "AI Systems Architecture",
+      "url": "https://www.irvincruz.com",
+      "description": "Your team wastes hours on repetitive tasks that software should handle. I build custom GPTs, workflow automation, and multi-agent systems that eliminate that friction. Best for teams ready to implement now.",
+      "cta": "Start Your Build",
+      "ctaUrl": "https://calendly.com/irvincruz"
+    },
+    {
+      "name": "Fractional Chief AI Officer",
+      "url": "https://www.irvincruz.com",
+      "description": "You need strategic AI leadership but can't justify a full-time hire. I provide governance frameworks, roadmaps, vendor evaluation, and executive guidance as an ongoing partner. Best for organizations scaling AI adoption across departments.",
+      "cta": "Request a Strategy Call",
+      "ctaUrl": "#contact"
+    },
+    {
+      "name": "30-Day AI Transformation Blueprint",
+      "url": "https://www.irvincruz.com",
+      "description": "You know AI can help but don't know where to start. This diagnostic sprint maps exactly where AI eliminates bottlenecks in your operations and delivers a prioritized roadmap with vendor recommendations. Best for leaders exploring options without wasting time on guesswork.",
+      "cta": "Get Your Assessment",
+      "ctaUrl": "#contact"
+    }
+  ],
+  "projects": [
+    {
+      "name": "NewsGen AI",
+      "description": "From headline to article in one click. AI-powered platform that transforms news headlines into publication-ready articles in 10-15 seconds, reducing content creation time from hours to seconds.",
+      "status": "Live",
+      "hostedUrl": "https://newsgenai-futurecraf-hank.bolt.host",
+      "image": "/1b71531c-b168-4117-a091-b80fb99bef4c.png",
+      "technologies": ["React", "TypeScript", "Tailwind CSS", "AI API", "Vite"],
+      "keyFeatures": [
+        "Real-time news search across thousands of sources",
+        "One-click AI article generation (10-15 seconds)",
+        "Article management with gallery and list views",
+        "Search history with autocomplete",
+        "Full-screen reader with Markdown support",
+        "Dark mode and mobile-responsive design"
+      ],
+      "tags": ["AI", "Content Generation", "News", "Automation", "SaaS"]
+    },
+    {
+      "name": "Website Prospector",
+      "description": "AI-powered lead generation tool that discovers and qualifies potential clients by analyzing websites and digital presence. Automates prospect research and outreach preparation.",
+      "status": "Live",
+      "hostedUrl": "https://websiteprospector.example.com",
+      "image": "/c2d40bcf-f061-4907-9149-d33abe655dc7.png",
+      "technologies": ["React", "TypeScript", "Tailwind CSS", "AI API", "Web Scraping"],
+      "keyFeatures": [
+        "Automated website analysis and scoring",
+        "AI-powered prospect qualification",
+        "Contact information extraction",
+        "Industry and technology detection",
+        "Lead prioritization and enrichment",
+        "Export and CRM integration"
+      ],
+      "tags": ["AI", "Lead Generation", "Sales", "Automation", "B2B"]
+    },
+    {
+      "name": "FutureCrafters — Five-Agent Orchestration System",
+      "description": "Multi-agent AI ecosystem for operational intelligence and execution. Built a five-agent orchestration system with specialized roles: Sol (Orchestrator & Project Manager) for memory & continuity management, Gigawatt (Prompt Engineer) for prompt architecture, Cipher (SOP Analyst) for process documentation, Nexus (Network Intelligence) for relationship mapping with 929 contacts, and Rory (Content Alchemist) for thought leadership production. Plus 12+ custom GPTs for specialized workflows.",
+      "status": "In Development",
+      "technologies": ["Multi-agent orchestration", "Claude API", "ChatGPT API", "Custom GPT development", "Memory systems", "Workflow automation", "Token optimization"],
+      "keyFeatures": [
+        "Sol: Memory & continuity management across sessions, active projects folder tracking, daily briefing intelligence, security & trust hierarchy enforcement",
+        "Gigawatt: Prompt architecture and optimization, agent design and system planning, technical specifications",
+        "Cipher: Process documentation and analysis, transcript analysis and insight extraction, workflow mapping",
+        "Nexus: LinkedIn connection analysis (929 contacts mapped), relationship intelligence and opportunity surfacing",
+        "Rory: Thought leadership content production, voice modeling and brand consistency, multi-platform content strategy",
+        "12+ custom GPTs for specialized workflows (email drafting, research synthesis, proposal generation)",
+        "40% manual effort reduction through intelligent automation",
+        "25% engagement lift via optimized workflows",
+        "Zero context loss through memory and checkpoint protocols",
+        "Proactive intelligence surfacing opportunities before requested",
+        "Scalable operations with specialized agents handling distinct domains"
+      ],
+      "tags": ["Multi-Agent", "AI Orchestration", "Automation", "Operational Intelligence", "Custom GPTs"],
+      "challenge": "Building FutureCrafters required operational intelligence across memory management, active project tracking, workflow orchestration, strategic analysis, and content production—tasks requiring different AI capabilities and specializations.",
+      "solution": "Built a five-agent orchestration system with specialized roles for memory management, prompt engineering, SOP analysis, network intelligence, and content production, plus 12+ custom GPTs for specialized workflows."
+    },
+    {
+      "name": "FutureCrafters AI Governance & Ethics System",
+      "description": "Production governance framework for responsible AI adoption and risk management. Comprehensive governance system for AI implementation covering: data privacy protocols, security standards, human-in-the-loop checkpoints, ethical decision frameworks, bias detection processes, accountability structures, and trust hierarchy enforcement. Used internally for all FutureCrafters AI deployments and offered to clients as part of fractional CAIO and strategic AI leadership engagements.",
+      "status": "In Development",
+      "technologies": ["Python", "Documentation", "Best Practices frameworks", "Governance protocols"],
+      "keyFeatures": [
+        "Data privacy protocols and security standards",
+        "Human-in-the-loop checkpoints",
+        "Ethical decision frameworks",
+        "Bias detection processes",
+        "Accountability structures",
+        "Trust hierarchy enforcement",
+        "Risk assessment and mitigation",
+        "Compliance documentation"
+      ],
+      "tags": ["AI Governance", "Ethics", "Risk Management", "Compliance"]
+    }
+  ],
+  "blogUrl": "https://medium.com/@irvincruz",
+  "caseStudies": [
+    {
+      "title": "AI-Enabled Lead Conversion Engine",
+      "company": "Michaelis Events",
+      "outcomes": [
+        "$2.1M annual revenue influenced",
+        "30% corporate acquisition increase",
+        "25% repeat bookings increase",
+        "15 hours/week saved",
+        "15% conversion uplift",
+        "40% reduction in manual effort"
+      ],
+      "description": "Scoped and led full system development with dev team: Complete brand refresh and visual identity redesign, WordPress website rebuild from ground up, client portal system built and connected to GoHighLevel CRM, multi-step lead generation funnel with automated lead capture/scoring/nurture, integration architecture using GoHighLevel + Zapier + Make for seamless automation, full funnel orchestration from first touch to booking conversion. Results: 15+ hours/week saved, 40% reduction in manual effort, 30% increase in corporate client acquisition, 25% boost in repeat bookings, 15% improvement in lead-to-booking conversion.",
+      "technologies": ["Make", "Zapier", "GoHighLevel", "ChatGPT", "WordPress", "CRM Integration"]
+    },
+    {
+      "title": "Multi-Agent Document Automation System",
+      "company": "FutureCrafters",
+      "outcomes": [
+        "25% engagement increase",
+        "40% reduced manual work",
+        "50+ step multi-agent workflow",
+        "Codified specialized processes",
+        "Zero context loss across sessions",
+        "Proactive intelligence"
+      ],
+      "description": "Built five-agent orchestration system: Sol (memory/project management) for continuity management and active project tracking, Gigawatt (prompt engineering) for prompt architecture and optimization, Cipher (SOP analysis) for process documentation and workflow mapping, Nexus (network intelligence) with 929 contacts mapped for relationship intelligence, Rory (content production) for thought leadership and brand consistency, plus 12+ custom GPTs for specialized workflows. Results: 40% manual effort reduction, 25% engagement lift, zero context loss through memory protocols, proactive intelligence surfacing opportunities.",
+      "technologies": ["Make", "n8n", "TypingMind", "Claude", "ChatGPT", "Custom GPT Development", "Multi-Agent Orchestration"]
+    },
+    {
+      "title": "Digital Operations Optimization",
+      "company": "Disney",
+      "outcomes": [
+        "20% guest satisfaction increase",
+        "8x online sales increase",
+        "90% delivery time reduction",
+        "50% engagement lift"
+      ],
+      "description": "Led cross-functional digital programs aligning Marketing, Digital, and Technology teams. Delivered platform integrations across mobile and e-commerce systems, streamlined program coordination, clarified dependencies to accelerate delivery cadence. Results: 20% guest satisfaction increase through improved digital experience, 8x online sales growth via optimized e-commerce integration, 90% delivery time reduction through better coordination, 50% engagement lift from streamlined processes.",
+      "technologies": ["Product Operations", "E-commerce", "Mobile App", "Cross-functional Leadership", "Platform Integration"]
+    },
+    {
+      "title": "Organic Growth Engine",
+      "company": "EDA Inc.",
+      "outcomes": [
+        "+22% web traffic",
+        "+40% MoM social engagement",
+        "+10% email open rate",
+        "500+ LinkedIn followers"
+      ],
+      "description": "Designed a 360° brand identity and digital presence with AI-assisted content strategy and automated workflows.",
+      "technologies": ["AI Content Strategy", "Marketing Automation", "Brand Development"]
+    }
+  ],
+  "socialProof": [
+    {
+      "name": "Make",
+      "logo": "https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Advanced Automation Architecture"
+    },
+    {
+      "name": "Claude AI",
+      "logo": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Multi-Agent Orchestration"
+    },
+    {
+      "name": "n8n",
+      "logo": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "Workflow Automation"
+    },
+    {
+      "name": "GPT",
+      "logo": "https://images.pexels.com/photos/8438918/pexels-photo-8438918.jpeg?auto=compress&cs=tinysrgb&w=200",
+      "description": "LLM Integration & Prompt Engineering"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2024–Present",
+      "title": "Director of Marketing & Technology",
+      "company": "Michaelis Events",
+      "description": "$2.1M revenue influence through AI adoption & automation workflows. Built first marketing team and implemented AI-powered lead conversion systems.",
+      "type": "work"
+    },
+    {
+      "year": "2022–Present",
+      "title": "Digital Operations & Brand Strategy Lead",
+      "company": "FutureCrafters",
+      "description": "25% engagement increase through AI workflow systems. Built multi-agent automation systems and ethical AI governance frameworks.",
+      "type": "work"
+    },
+    {
+      "year": "2022–2023",
+      "title": "Digital Strategy & Analytics Manager",
+      "company": "EDA Inc.",
+      "description": "22% traffic lift and 40% MoM engagement growth through AI-assisted content strategy and automated workflows.",
+      "type": "work"
+    },
+    {
+      "year": "2022",
+      "title": "Digital Product Operations Manager",
+      "company": "The Walt Disney Company",
+      "description": "8x online sales increase and 20% satisfaction improvement through mobile app e-commerce integration and digital operations optimization.",
+      "type": "work"
+    },
+    {
+      "year": "2021",
+      "title": "Digital Marketing Strategist",
+      "company": "Designzillas",
+      "description": "Doubled organic traffic and achieved 55% CPL reduction through SEO, PPC, and conversion optimization systems.",
+      "type": "work"
+    },
+    {
+      "year": "2015–2020",
+      "title": "Marketing & Promotions Manager",
+      "company": "Entercom Communications",
+      "description": "18% market share lift and 2M+ impressions generated through large-scale event marketing and brand leadership.",
+      "type": "work"
+    },
+    {
+      "year": "2011–2016",
+      "title": "Bachelor's degree, Multi/Interdisciplinary Studies",
+      "company": "University of Central Florida",
+      "description": "Multi-Media Communications and Digital Media based Business Marketing and ECommerce",
+      "type": "education"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/irvincruzrodriguez/",
+      "username": "Irvin Cruz",
+      "followers": ""
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:irvincruz.work@gmail.com",
+      "username": "irvincruz.work@gmail.com",
+      "followers": ""
+    }
+  ],
+  "leadMagnet": {
+    "title": "AI Readiness Checklist",
+    "tagline": "Find out where AI can help in under 5 minutes.",
+    "description": "A practical checklist that shows you where your team is losing time to repetitive work and where AI can help. No jargon, no hype. Just a clear map of what's possible and what to do next.",
+    "cta": "Download the AI Readiness Checklist",
+    "type": "checklist"
+  },
+  "seo": {
+    "title": "Irvin Cruz — AI Workflow Specialist & Certified Chief AI Officer",
+    "description": "Irvin Cruz designs ethical, production-ready AI workflows, branded GPTs, and automation systems that reduce manual work and unlock scalable operations.",
+    "keywords": ["AI workflow", "automation", "CAIO", "AI adoption", "agentic systems", "FutureCrafters", "AI Workflow Specialist", "Chief AI Officer"],
+    "ogImage": "/profile-pic (2).png"
+  }
+}
